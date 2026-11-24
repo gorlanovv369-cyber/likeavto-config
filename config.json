@@ -45,5 +45,39 @@
       "sha256": "",
       "notes": "Базовый пакет адаптации ГУ Haval F7."
     }
-  ]
+  ],
+  "gu_apps_pack": {
+    "version": "1.0",
+    "title": "Базовый пакет адаптации ГУ",
+    "apps": [
+      {
+        "name": "RuStore",
+        "filename": "RuStore-mobile-1.114.0.3.apk",
+        "type": "apk",
+        "size_mb": 56,
+        "gdrive_file_id": "12g_svtf1UrhB8Tt_ZPBq-CG0hUthVfBp"
+      },
+      {
+        "name": "Яндекс Клавиатура",
+        "filename": "ru.yandex.androidkeyboard_31292000_rs.apk",
+        "type": "apk",
+        "size_mb": 89,
+        "gdrive_file_id": "1DCOZz5u3kbiMBZlXolbRlvTJCSozOq6Y"
+      },
+      {
+        "name": "Яндекс Навигатор",
+        "filename": "ru.yandex.yandexnavi_739745010_rs.apk",
+        "type": "apk",
+        "size_mb": 400,
+        "gdrive_file_id": "1QQ7kQWoMXYN-CDg1nKrayJ7bDbxBG7Vn"
+      },
+      {
+        "name": "Яндекс с Алисой",
+        "filename": "com.yandex.searchapp_261101063.xapk",
+        "type": "xapk",
+        "size_mb": 160,
+        "gdrive_file_id": "1TYmoSIllM_ncz9j5_88J8zEJ1pKGKuPy"
+      }
+    ]
+  }
 }
