@@ -1,6 +1,6 @@
 {
   "global": {
-    "maintenance": true,
+    "maintenance": false,
     "announcement": "Обновление базы Haval доступно в разделе прошивок",
     "default_margin_rub": 50000
   },
