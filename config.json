@@ -21,5 +21,29 @@
       "manager": "Иван",
       "block_reason": ""
     }
-  }
+  },
+  "firmware_catalog": [
+    {
+      "id": "geely_monjaro_gkui",
+      "brand": "Geely",
+      "model": "Monjaro / Coolray / Tugella (GKUI / 8155)",
+      "version": "1.0",
+      "method": "adb_zip",
+      "gdrive_file_id": "ВСТАВИТЬ_ID_ФАЙЛА_С_ГУГЛ_ДИСКА",
+      "size_mb": 45,
+      "sha256": "",
+      "notes": "Набор для русификации: Яндекс Навигатор, клавиатура, оверлей-переводчик, настройка локали."
+    },
+    {
+      "id": "haval_f7_2023",
+      "brand": "Haval",
+      "model": "F7 / F7x 2023+",
+      "version": "1.0",
+      "method": "adb_zip",
+      "gdrive_file_id": "ВСТАВИТЬ_ID_ФАЙЛА_С_ГУГЛ_ДИСКА",
+      "size_mb": 38,
+      "sha256": "",
+      "notes": "Базовый пакет адаптации ГУ Haval F7."
+    }
+  ]
 }
