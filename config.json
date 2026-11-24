@@ -1,0 +1,25 @@
+{
+  "global": {
+    "maintenance": false,
+    "announcement": "Обновление базы Haval доступно в разделе прошивок",
+    "default_margin_rub": 50000
+  },
+  "cities": {
+    "Саратов": {
+      "contact_phone": "+7 (900) 000-00-01",
+      "margin_rub": 45000
+    },
+    "Москва": {
+      "contact_phone": "+7 (900) 000-00-02",
+      "margin_rub": 60000
+    }
+  },
+  "devices": {
+    "LA-1A2B-3C4D": {
+      "active": true,
+      "city": "Саратов",
+      "manager": "Иван",
+      "block_reason": ""
+    }
+  }
+}
